@@ -31,7 +31,7 @@ then
 
 else
 
-	echo "Can't Resolve Domain to IP " $target >> $target.log
+	echo "Can NOT Resolve Domain to IP " $target >> $target.log
 
 fi
 
